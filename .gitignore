@@ -1,0 +1,3 @@
+# Local-markdown issue tracker working dir, used by the engineering skills
+# (/wayfinder, /to-spec, /to-tickets). Effort-local and not shared state.
+.scratch/
